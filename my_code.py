@@ -19,7 +19,7 @@ df.loc[len(df.index)]={"name": "GF1","Age":25,"address": "nator"}
 
 
 # adding new row 
-# df.log[len(df.index)]={"name": "V3","Age":30,"address": "city1"}
+df.loc[len(df.index)]={"name": "GF2","Age":30,"address": "city1"}
 
 
 
