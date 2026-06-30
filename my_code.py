@@ -15,7 +15,7 @@ df=pd.DataFrame(data)
 
 
 # adding new row 
-# df.log[len(df.index)]={"name": "V2","Age":25,"address": "nator"}
+df.loc[len(df.index)]={"name": "GF1","Age":25,"address": "nator"}
 
 
 # adding new row 
